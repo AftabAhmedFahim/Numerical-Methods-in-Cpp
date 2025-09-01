@@ -13,12 +13,12 @@ The goal is to provide clean, well-documented implementations for learning and r
 - **[Secant Method](src/root_finding/secant.cpp)**
 - **[Fixed Point Iteration](src/root_finding/fixed_point.cpp)**
 - **[Newton-Raphson Method](src/root_finding/newton_raphson.cpp)**
-- **[Modified Newton-Raphson](src/root_finding/modified_newton.cpp)**
+- **[Modified Newton-Raphson](src/root_finding/modified_newton_raphson.cpp)**
 - **[Modified Bisection](src/root_finding/modified_bisection.cpp)**
 
 ### 🔹 Interpolation
 - **[Lagrange Interpolation](src/interpolation/lagrange.cpp)**
-- **[Newton Divided Difference Interpolation](src/interpolation/newton_divided.cpp)**
+- **[Newton Divided Difference Interpolation](src/interpolation/newton_divided_difference.cpp)**
 
 ### 🔹 Regression & Curve Fitting
 - **[Linear Regression](src/regression/linear_regression.cpp)**
