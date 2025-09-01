@@ -5,41 +5,6 @@ The goal is to provide clean, well-documented implementations for learning and r
 
 ---
 
-## 📂 Directory Structure
-
-- **src/**
-  - **[root_finding/](src/root_finding/)** - Root-finding algorithms
-    - **[bisection_iterative.cpp](src/root_finding/bisection_iterative.cpp)**
-    - **[bisection_tolerance.cpp](src/root_finding/bisection_tolerance.cpp)**
-    - **[false_position.cpp](src/root_finding/false_position.cpp)**
-    - **[secant.cpp](src/root_finding/secant.cpp)**
-    - **[fixed_point.cpp](src/root_finding/fixed_point.cpp)**
-    - **[newton_raphson.cpp](src/root_finding/newton_raphson.cpp)**
-    - **[modified_newton.cpp](src/root_finding/modified_newton.cpp)**
-    - **[modified_bisection.cpp](src/root_finding/modified_bisection.cpp)**
-  
-  - **[interpolation/](src/interpolation/)** - Interpolation techniques
-    - **[lagrange.cpp](src/interpolation/lagrange.cpp)**
-    - **[newton_divided.cpp](src/interpolation/newton_divided.cpp)**
-  
-  - **[regression/](src/regression/)** - Regression & curve fitting
-    - **[linear_regression.cpp](src/regression/linear_regression.cpp)**
-    - **[polynomial_regression.cpp](src/regression/polynomial_regression.cpp)**
-    - **[curve_fitting.cpp](src/regression/curve_fitting.cpp)**
-    - **[correlation_coefficients.cpp](src/regression/correlation_coefficients.cpp)**
-  
-  - **[error_analysis/](src/error_analysis/)** - Error calculation
-    - **[mse_rmse.cpp](src/error_analysis/mse_rmse.cpp)**
-  
-  - **[utilities/](src/utilities/)** - Helper functions
-    - **[horners_rule.cpp](src/utilities/horners_rule.cpp)**
-
-- **[.gitignore](.gitignore)**
-- **[LICENSE](LICENSE)**
-- **[README.md](README.md)**
-
----
-
 ## 📌 Implemented Methods
 
 ### 🔹 Root Finding
